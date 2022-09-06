@@ -6,7 +6,7 @@
 #! /bin/bash
 echo “Hello, world!”
 
-## Решение:
+## Решение:  :+1:
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/4PNvpX3/2022-09-06-09-23-38.png" alt="2022-09-06-09-23-38" border="0"></a>
 ## Вывод: :eyes:
 <a href="https://ibb.co/hmhZnjW"><img src="https://i.ibb.co/bKq2yZB/2022-09-06-09-25-14.png" alt="2022-09-06-09-25-14" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
@@ -27,7 +27,7 @@ Arguments are: $1=one $2=two
 а при запуске ./script.sh three four будет:
 
 Arguments are: $1=three $2=four
-## Решение:
+## Решение: :+1:
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/3sndGPT/2022-09-06-09-29-18.png" alt="2022-09-06-09-29-18" border="0"></a>
 ## Вывод: :eyes:
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/k63HQ1m/2022-09-06-09-28-42.png" alt="2022-09-06-09-28-42" border="0"></a>
@@ -40,7 +40,7 @@ Arguments are: $1=three $2=four
 
 Соответствие входа и выхода должно быть таким:
 <a href="https://ibb.co/zhvL1mt"><img src="https://i.ibb.co/4ZrDcF0/2022-09-06-09-30-47.png" alt="2022-09-06-09-30-47" border="0"></a>
-## Решение:
+## Решение: :+1:
 <a href="https://ibb.co/cNqzQD3"><img src="https://i.ibb.co/sF7LqyR/2022-09-06-09-32-47.png" alt="2022-09-06-09-32-47" border="0"></a>
 ## Вывод: :eyes:
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/j6ZZ6bD/2022-09-06-09-33-21.png" alt="2022-09-06-09-33-21" border="0"></a>
@@ -64,7 +64,7 @@ your name:" и ждать от пользователя ввода имени (�
 начинается по новой. Если в какой-то момент работы скрипта будет введено
 пустое имя или возраст 0, то скрипт должен написать на экран "bye" и
 закончить свою работу.
-## Решение:
+## Решение: :+1:
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/GWswZLv/2022-09-06-09-35-19.png" alt="2022-09-06-09-35-19" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
 ## Вывод: :eyes:
 <a href="https://ibb.co/d2HY6W6"><img src="https://i.ibb.co/T8N3RvR/2022-09-06-09-37-54.png" alt="2022-09-06-09-37-54" border="0"></a>
@@ -88,7 +88,7 @@ your name:" и ждать от пользователя ввода имени (�
 N), а в качестве второго N. Если же наоборот, M меньше N, то запускаем
 функцию gcd с первым аргументом M, а вторым (N-M).
 
-## Решение:
+## Решение: :+1:
 <a href="https://ibb.co/HVNpzHj"><img src="https://i.ibb.co/xDm8j7N/2022-09-06-09-44-57.png" alt="2022-09-06-09-44-57" border="0"></a>
 ## Вывод: :eyes:
 <a href="https://ibb.co/8BGvqjx"><img src="https://i.ibb.co/sPcxnF1/2022-09-06-09-42-38.png" alt="2022-09-06-09-42-38" border="0"></a>
