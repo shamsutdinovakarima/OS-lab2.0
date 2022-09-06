@@ -9,7 +9,7 @@ echo “Hello, world!”
 ## Решение:
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/4PNvpX3/2022-09-06-09-23-38.png" alt="2022-09-06-09-23-38" border="0"></a>
 ## Вывод:
-<a href="https://ibb.co/hmhZnjW"><img src="https://i.ibb.co/bKq2yZB/2022-09-06-09-25-14.png" alt="2022-09-06-09-25-14" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>link center io click</a><br />
+<a href="https://ibb.co/hmhZnjW"><img src="https://i.ibb.co/bKq2yZB/2022-09-06-09-25-14.png" alt="2022-09-06-09-25-14" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
 
 
 ## Задание 2
@@ -37,7 +37,6 @@ Arguments are: $1=three $2=four
 
 Соответствие входа и выхода должно быть таким:
 <a href="https://ibb.co/zhvL1mt"><img src="https://i.ibb.co/4ZrDcF0/2022-09-06-09-30-47.png" alt="2022-09-06-09-30-47" border="0"></a>
-
 ## Решение:
 <a href="https://ibb.co/cNqzQD3"><img src="https://i.ibb.co/sF7LqyR/2022-09-06-09-32-47.png" alt="2022-09-06-09-32-47" border="0"></a>
 ## Вывод:
@@ -85,7 +84,8 @@ your name:" и ждать от пользователя ввода имени (�
 запускаем ту же функцию gcd, но в качестве первого аргумента передаем (M-
 N), а в качестве второго N. Если же наоборот, M меньше N, то запускаем
 функцию gcd с первым аргументом M, а вторым (N-M).
+
 ## Решение:
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/R6RTTTL/2022-09-06-09-41-07.png" alt="2022-09-06-09-41-07" border="0"></a>
+<a href="https://ibb.co/HVNpzHj"><img src="https://i.ibb.co/xDm8j7N/2022-09-06-09-44-57.png" alt="2022-09-06-09-44-57" border="0"></a>
 ## Вывод:
 <a href="https://ibb.co/8BGvqjx"><img src="https://i.ibb.co/sPcxnF1/2022-09-06-09-42-38.png" alt="2022-09-06-09-42-38" border="0"></a>
