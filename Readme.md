@@ -42,7 +42,7 @@ Arguments are: $1=three $2=four
 <a href="https://ibb.co/zhvL1mt"><img src="https://i.ibb.co/4ZrDcF0/2022-09-06-09-30-47.png" alt="2022-09-06-09-30-47" border="0"></a>
 ## Решение:
 <a href="https://ibb.co/cNqzQD3"><img src="https://i.ibb.co/sF7LqyR/2022-09-06-09-32-47.png" alt="2022-09-06-09-32-47" border="0"></a>
-## Вывод: :eyes: :eyes:
+## Вывод: :eyes:
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/j6ZZ6bD/2022-09-06-09-33-21.png" alt="2022-09-06-09-33-21" border="0"></a>
 
 ## Задание 4 :computer:
